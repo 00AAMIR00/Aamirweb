@@ -1,0 +1,200 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.article {
+  color: RGB(84, 84, 84);
+  font-size: 100%;
+  margin-left: 35%;
+  margin-right: 35%;
+}
+
+.article2 {
+  color: RGB(84, 84, 84);
+  font-size: 100%;
+  margin-right: 50%;
+  margin-bottom: 10%;
+
+}
+
+.article3 {
+  color: RGB(84, 84, 84);
+  font-size: 100%;
+  margin-left: 50%;
+}
+
+.article4 {
+  text-align: center;
+  margin-bottom: 10%;
+
+}
+
+.section4 {
+  background-color: #C5DED7;
+  max-width: 100%;
+  color: #45B2A7;
+  font-size: 22px;
+  text-decoration: none;
+
+}
+
+.lasth6 {
+  text-align: center;
+  margin-top: 100px;
+  color: #45B2A7;
+  text
+}
+
+.lastofus1 {
+  color: #3EA08A;
+  text-decoration: none;
+  font-size: 25px;
+  margin-left:620px;
+  
+}
+.lastofus2 {
+  color: #3EA08A;
+  text-decoration: none;
+  font-size: 25px;
+  margin-inline: 40px;
+  
+  
+}
+.lastofus3 {
+  color: #3EA08A;
+  text-decoration: none;
+  font-size: 25px;
+  margin-inline-end: 40px;
+  
+}
+
+
+.profile {
+  width: 100px;
+  margin-top: 50px;
+  margin-right: 600px;
+  margin-left: 300px;
+}
+
+.div2 {
+
+  text-align: center;
+}
+
+.profile2 {
+  margin-top: 80px;
+  margin-bottom: 40px;
+  width: 150px;
+}
+
+.profile3 {
+  width: 150px;
+  margin-left: 25%;
+  margin-right: 10px;
+}
+
+.profile4 {
+  width: 150px;
+  margin-right: 25%;
+  margin-left: 10px;
+}
+
+.navbar {
+  color: #4AB19A;
+  background-color: #E0EBE8;
+  height: 100px;
+  display: flex;
+  border-bottom: 100px;
+  align-items: center;
+}
+
+.navbar-nav {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  margin-right: 200px;
+}
+
+.nav-item {
+  margin-right: 15px;
+}
+
+.nav-link {
+  color: #4AB19A;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 20px;
+  margin: 0, 0, 0, 16px;
+}
+
+.nav-link:hover {
+  color: #555;
+}
+
+
+.Introduction {
+
+  color: #4AB19A;
+  background-color: #E0EBE8;
+  text-align: center;
+
+
+
+}
+
+.h1 {
+  font-family: Tangerine;
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 33px;
+
+}
+
+.h2 {
+  color: #1E836C;
+  font-size: 53.2px;
+  margin-top: 11%;
+  margin-bottom: 4%;
+  text-align: center;
+}
+
+h3 {
+  color: #4AB19A;
+  font-size: 28px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size:
+    15.62px;
+  line-height:
+    36px;
+  font-weight: 400;
+}
+
+.designcon {
+  color: RGB(84, 84, 84);
+  font-size: 21px;
+  font-weight: 300;
+}
+
+.message-button {
+  display: inline-block;
+  padding: .75em 2em .75em 3.5em;
+  background-color: #3EA08A;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  margin-left: 45%;
+  margin-right: 50%;
+  text-align: center;
+  margin-top: -5%;
+  margin-bottom: 10%;
+}
